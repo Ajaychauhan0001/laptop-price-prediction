@@ -328,7 +328,7 @@ Through this project, I learned:
 
 # 👨‍💻 Author
 
-**Aditya Sharma**
+**Ajay chauhan**
 
 Machine Learning Project
 
